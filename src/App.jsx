@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 import './App.css'
 import {BsTrash, BsBookmarkCheck, BsBookmarkCheckFill} from "react-icons/bs"
 
-const API = "http://localhost:5000";
+const API = "https://octagonal-glamorous-secure.glitch.me";
 
 function App() {
   
