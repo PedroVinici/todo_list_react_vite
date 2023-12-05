@@ -1,7 +1,7 @@
-# To Do List SPA
+# To Do SPA React
 
 ### Acesse o projeto: https://pedrovinici.github.io/todo_list_react_vite/
-Uma ToDo Lista SPA (single Page Aplicattion) feita em React + Vite.
+Uma ToDo List SPA (single Page Aplicattion) feita em React + Vite.
 
 ## Tecnologias utilizadas
 * Projeto construido em React, utilizando o Vite.
